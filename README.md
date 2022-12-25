@@ -6,7 +6,7 @@ Used below .Net doc to deploy:
 https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server
 ```
 
-DOCkerfile is placed in Client folder from where I started the server using command
+DOCkerfile is placed in Client folder from where I started the server using command locally on a Droplet and it worked
 
 ```
 dotnet watch run
