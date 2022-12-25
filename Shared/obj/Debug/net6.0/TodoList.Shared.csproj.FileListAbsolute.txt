@@ -1,0 +1,12 @@
+/root/TodoList/Shared/bin/Debug/net6.0/TodoList.Shared.deps.json
+/root/TodoList/Shared/bin/Debug/net6.0/TodoList.Shared.dll
+/root/TodoList/Shared/bin/Debug/net6.0/ref/TodoList.Shared.dll
+/root/TodoList/Shared/bin/Debug/net6.0/TodoList.Shared.pdb
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.csproj.AssemblyReference.cache
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.AssemblyInfoInputs.cache
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.AssemblyInfo.cs
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.csproj.CoreCompileInputs.cache
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.dll
+/root/TodoList/Shared/obj/Debug/net6.0/ref/TodoList.Shared.dll
+/root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.pdb
