@@ -10,3 +10,15 @@
 /root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.dll
 /root/TodoList/Shared/obj/Debug/net6.0/ref/TodoList.Shared.dll
 /root/TodoList/Shared/obj/Debug/net6.0/TodoList.Shared.pdb
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\bin\Debug\net6.0\TodoList.Shared.deps.json
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\bin\Debug\net6.0\TodoList.Shared.dll
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\bin\Debug\net6.0\TodoList.Shared.pdb
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.csproj.AssemblyReference.cache
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.AssemblyInfoInputs.cache
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.AssemblyInfo.cs
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.csproj.CoreCompileInputs.cache
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.dll
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\refint\TodoList.Shared.dll
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\TodoList.Shared.pdb
+D:\Dev\github\danielpomas\blazorwasmapp\Shared\obj\Debug\net6.0\ref\TodoList.Shared.dll

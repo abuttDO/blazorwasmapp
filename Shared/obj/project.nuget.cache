@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HzsjMioTleAWe2+gQi5HitkuO5/Rnt1mfUuNbL2RFCNit3mKiWrk3eb9W0vsWaqSl27oYHV4+lWyXiqRnVWuIA==",
+  "dgSpecHash": "0L8KbBHuWLwPKbSwc5LwTpDKMz813itWvsx+2IoGjrDQHBD8rfm0Idxh7lsyNCyiAxlI0Rl3jX87ZvBHX45Lvw==",
   "success": true,
-  "projectFilePath": "/root/TodoList/Shared/TodoList.Shared.csproj",
+  "projectFilePath": "D:\\Dev\\github\\danielpomas\\blazorwasmapp\\Shared\\TodoList.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
