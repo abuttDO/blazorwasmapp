@@ -7,9 +7,9 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 RUN echo $PWD
 RUN ls
-COPY ["../Server/TodoList.Server.csproj", "Server/"]
-COPY ["../Client/TodoList.Client.csproj", "Client/"]
-COPY ["../Shared/TodoList.Shared.csproj", "Shared/"]
+COPY ["Server/TodoList.Server.csproj", "Server/"]
+COPY ["Client/TodoList.Client.csproj", "Client/"]
+COPY ["Shared/TodoList.Shared.csproj", "Shared/"]
 RUN ls
 RUN echo $PWD
 RUN dotnet restore "Server/TodoList.Server.csproj"
